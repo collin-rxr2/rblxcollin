@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MCPRO116
+- 👋 Hi, I’m @rblxcollin
 - 👀 I’m interested in Python, Windows and the Web
 - 🌱 I’m currently learning alot in the Web (Python Requests, HTML)
 - 💞️ I’m looking to collaborate on some other developer
-- 📫 How to reach me? mcpro1106@gmail.com
 - 🕔 I'm programming since 2020
