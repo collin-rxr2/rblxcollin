@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rblxcollin
-- 👀 I’m interested in Python, Windows and the Web
-- 🌱 I’m currently learning alot in the Web (Python Requests, HTML)
-- 💞️ I’m looking to collaborate on some other developer
-- 🕔 I'm programming since 2020
+`👋` Hi, I’m Collin
+`👀` I’m interested in Python, HTML, CSS and JavaScript
+`💞️` I’m looking to collaborate on some other developer
+`🕔` I'm programming since 2020
