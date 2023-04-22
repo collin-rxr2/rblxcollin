@@ -2,8 +2,8 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/659109458542067714)](https://discord.com/users/659109458542067714)
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/659109458542067714)](https://discord.com/users/659109458542067714)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rblxcollin)](https://github.com/anuraghazra/github-readme-stats)
