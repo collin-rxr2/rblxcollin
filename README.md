@@ -6,4 +6,8 @@
 
 ---
 
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=rblxcollin&no-frame=false&theme=dracula&column=4&row=1)
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rblxcollin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
